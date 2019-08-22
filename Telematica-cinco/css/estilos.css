@@ -1,0 +1,30 @@
+
+.regresar{
+	text-align:center;width: 1250px;height: 150px;padding: 20px;
+}
+*{
+	margin: 0;
+	padding: 0; 
+}
+
+.cuadro{ width: 200px;border-radius:30% ;
+/*box-shadow: 5px 5px 0px #424242;*/
+    padding: 10px;
+    border: 5px solid#000;
+	
+}
+h2{ font-family:bodoni mt;font-size: 40px;text-align: center;color: black
+	
+}
+table{
+	width: 1000px
+}
+p{
+	text-align: justify;font-family:bodoni mt;color:black; font-size: 20px;
+}
+body{
+    background-image: url(../img/cinco.png);
+    background-repeat: no-repeat;
+    background-size: 200%;
+  
+}
