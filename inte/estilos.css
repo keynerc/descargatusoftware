@@ -1,0 +1,59 @@
+.letra{
+
+font-family:cursive; font-size: 35px;color:black;width: 1100px;height: 300px;padding:100px;font-weight: bold;text-align: center;
+
+}
+
+.regresar{
+
+text-align:center;width: 1300px;height: 180px; padding: 5px;
+
+}
+
+.logo{padding: 10px ; 
+
+}
+
+*{
+
+margin: 0;
+
+padding: 0;
+
+}
+
+footer{
+
+text-align: center;font-family:bodoni mt;font-size: 200%;color: white;
+
+}
+
+html,body{
+
+background-image: url(../img/cooperacion.jpg);
+
+background-repeat: no-repeat;
+
+background-size: 170%;
+
+}
+
+.pagina img{width: 30%;border-radius: 50%;text-align:center;
+
+}
+
+.pagina{
+
+text-align: center;}
+
+.letra,h1{
+
+font-family:bodoni mt;color: white;
+
+}
+
+h3{
+
+color: white; font-family: bodoni mt;
+
+}
